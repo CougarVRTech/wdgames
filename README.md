@@ -1,2 +1,3 @@
-# wdgames
-The official repo for WD Games
+# Wintercat Development Webgames
+
+The official repo gor WD Games, we are still developing it as of rn
